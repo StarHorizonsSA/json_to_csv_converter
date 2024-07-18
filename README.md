@@ -5,7 +5,7 @@ This script converts a JSON file to a CSV file with a unique timestamped filenam
 To convert the JSON file containing Star Atlas PIP voting records into manageable CSV files. 
 References: https://govern.staratlas.com/proposals   
 
-How to run the program:
+# How to run the program:
 1. Make sure you have Python installed on your system.
 2. Install the Pandas library if you haven't already by running:
    pip install pandas
@@ -16,11 +16,11 @@ How to run the program:
 6. Run the script by executing:
    python convert_to_csv.py
 
-The json_file_path: 
+# The json_file_path 
 Replace with your actual JSON file path
 Note: Use double backslashes (\\) in the file paths to escape the backslash character in Python strings
 
-The csv_file_path:
+# The csv_file_path
 Replace with your desired CSV output path
 Note: Use double backslashes (\\) in the file paths to escape the backslash character in Python strings
 
