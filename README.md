@@ -1,7 +1,8 @@
-json_to_csv_converter
+# json_to_csv_converter
 This script converts a JSON file to a CSV file with a unique timestamped filename.
 
-Purpose: To convert the JSON file containing Star Atlas PIP voting records into manageable CSV files. 
+# Purpose
+To convert the JSON file containing Star Atlas PIP voting records into manageable CSV files. 
 References: https://govern.staratlas.com/proposals   
 
 How to run the program:
